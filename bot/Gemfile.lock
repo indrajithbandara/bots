@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cryptocompare (0.13.0)
+      faraday
+      json
+    dotenv (2.2.1)
+    faraday (0.13.1)
+      multipart-post (>= 1.2, < 3)
+    json (2.1.0)
+    multipart-post (2.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cryptocompare
+  dotenv
+
+BUNDLED WITH
+   1.16.1
